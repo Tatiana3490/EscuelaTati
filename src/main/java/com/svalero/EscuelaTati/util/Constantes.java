@@ -1,4 +1,4 @@
-package com.svalero.EscuelaTati;
+package com.svalero.EscuelaTati.util;
 
 public class Constantes {
 

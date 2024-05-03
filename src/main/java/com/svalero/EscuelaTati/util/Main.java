@@ -1,10 +1,10 @@
-package com.svalero.EscuelaTati;
+package com.svalero.EscuelaTati.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import static com.svalero.EscuelaTati.Constantes.*;
+import static com.svalero.EscuelaTati.util.Constantes.*;
 
 public class Main {
     public static void main(String[] args) {
